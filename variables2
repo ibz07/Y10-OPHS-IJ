@@ -1,0 +1,26 @@
+#Variables2
+name1 = "ibrahim"
+name2 = "peter"
+name3 = "mohamed"
+name4 = "david"
+name5 = "john"
+
+print(name1)
+print(name2)
+print(name3)
+print(name4)
+print(name5)
+
+town1 = "Addington"
+town2 = "Shrublands"
+town3 = "Peckham"
+town4 = "Addiscombe"
+town5 = "Norbury"
+
+print("")
+
+print(town1)
+print(town2)
+print(town3)
+print(town4)
+print(town5)
