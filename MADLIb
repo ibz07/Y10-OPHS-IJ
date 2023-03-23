@@ -1,0 +1,17 @@
+print("WELCOME TO THE MAD-LIB")
+print("")
+print("Please answer the following question to complete your MAD-LIB")
+print("")
+
+person = input("name a person>>>")
+country = input("enter your dream holiday country>>>")
+typeoftransport = input("enter a way of transportation>>>")
+pet = input("name your favourite pet>>>")
+food = input("what is your favourite food>>>")
+
+print("")
+print("HERE IS YOUR MAD-LIB")
+print("")
+print("One day someone named" ,person ,"woke up and decided to go on a holiday to" ,country, "with" ,person "s" ,pet)
+
+
