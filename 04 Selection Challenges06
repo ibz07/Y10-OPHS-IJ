@@ -1,0 +1,10 @@
+age1 = str(input("what is your Age?: "))
+if age1 > 18 :
+  print("you can vote")
+  
+  if age1 = 17:
+    print("you can learn to drive")
+    
+    if age1 = 16:
+      print("you can buy a lottery ticket")
+  
