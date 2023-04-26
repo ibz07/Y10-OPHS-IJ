@@ -1,0 +1,12 @@
+num1 = int(input("type the number 1, 2 or 3: "))
+if num1 == 1 :
+  print("thank you")
+
+elif num1 == 2 :
+  print("well done, you're so smart")
+  
+elif num1 == 3: 
+  print("amazing, you are so good at this")
+  
+else:
+  print("really? what's wrong with you??")
