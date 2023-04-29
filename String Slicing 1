@@ -6,7 +6,7 @@
 name = "Ibrahim Jabbie"
 
 first_name = name[0:]
-last_name = name[4:]
+last_name = name[8:]
 funky_name = name[::6]
 reversed_name = name[::-1]
 
