@@ -1,0 +1,22 @@
+#EXAMPLE 1
+number = 0
+while number != 8:
+  number = number + 1
+  print("the number is", number)
+  
+
+
+#EXAMPLE 2
+answer = "N"
+while answe != "Y":
+  print("are we there yet?")
+  answer = input("please respond Y or N")
+  
+print("Yay we are there")
+
+
+
+#EXAMPLE 3
+username = ""
+while not username:
+  username = input("Please enter username: ")
